@@ -10,4 +10,5 @@ Player analysis for UEFA Euro 2024 involves a detailed examination of individual
 - Average market value
 - Clubwise or country wise view of all the averages
 - goals by position
+- Caps by country
 ![EURO2024 dashboard](https://github.com/user-attachments/assets/a4984aaa-defe-4178-b8d1-cc1fc6676ebb)
